@@ -32,7 +32,7 @@ nav ul {
 
 nav li a {
     display: block;
-    height: 30;
+    height: 0;
     line-height: 40px;
     color: #027E93;
     font-size: 24px;
